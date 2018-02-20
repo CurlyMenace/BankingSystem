@@ -1,0 +1,16 @@
+F:\BankingSystem\BankingSystem\bin\Debug\BankingSystem.exe.config
+F:\BankingSystem\BankingSystem\obj\Debug\BankingSystem.csprojResolveAssemblyReference.cache
+F:\BankingSystem\BankingSystem\obj\Debug\MainWindow.baml
+F:\BankingSystem\BankingSystem\obj\Debug\MainWindow.g.cs
+F:\BankingSystem\BankingSystem\obj\Debug\App.g.cs
+F:\BankingSystem\BankingSystem\obj\Debug\BankingSystem_MarkupCompile.cache
+F:\BankingSystem\BankingSystem\obj\Debug\BankingSystem.g.resources
+F:\BankingSystem\BankingSystem\obj\Debug\BankingSystem.Properties.Resources.resources
+F:\BankingSystem\BankingSystem\obj\Debug\BankingSystem.csproj.GenerateResource.Cache
+F:\BankingSystem\BankingSystem\bin\Debug\BankingSystem.exe
+F:\BankingSystem\BankingSystem\bin\Debug\BankingSystem.pdb
+F:\BankingSystem\BankingSystem\obj\Debug\BankingSystem.exe
+F:\BankingSystem\BankingSystem\obj\Debug\BankingSystem.pdb
+J:\BankingSystem\BankingSystem\bin\Debug\BankingSystem.exe.config
+J:\BankingSystem\BankingSystem\obj\Debug\BankingSystem.exe
+J:\BankingSystem\BankingSystem\obj\Debug\BankingSystem.pdb
